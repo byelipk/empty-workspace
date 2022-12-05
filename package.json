@@ -1,0 +1,10 @@
+{
+  "private": true,
+  "scripts": {},
+  "workspaces": [
+    "packages/*",
+    "sites/*"
+  ],
+  "dependencies": {},
+  "version": "0.0.0"
+}

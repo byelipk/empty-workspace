@@ -1,0 +1,9 @@
+{
+  "name": "gatsby-plugin-ex-meta",
+  "version": "1.0.0",
+  "description": "Example Meta",
+  "main": "index.js",
+  "author": "Pat White <pat@kalanso.com>",
+  "license": "MIT",
+  "private": true
+}
