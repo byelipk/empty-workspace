@@ -1,0 +1,4 @@
+[build]
+base = "/sites/example-app"
+publish = "public/"
+command = "yarn workspace example-app gatsby:build"
